@@ -1,0 +1,14 @@
+Antonio Valenzuela
+anlvalen@ucsc.edu
+CS-12B
+July 6, 2017
+PA 1
+
+Files for Submission:
+
+README
+
+Makefile - a Makefile containing macros for compiling, cleaning, checking, and 
+submitting the source files Recursion.java
+
+Recursion.java - a java source that runs 5 recursive methods written for a provided main function. 

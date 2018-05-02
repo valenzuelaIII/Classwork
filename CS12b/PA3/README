@@ -1,0 +1,27 @@
+Antonio Valenzuela
+anlvalen@ucsc.edu
+CS-12B
+July 23, 2017
+PA 3
+
+README
+For PA3, a singly linked with head reference was used to implements Dictionary ADT. For the Node class, it is defined to contained to String fields as apposed to the single data field method. 
+
+1. Makefile: a Makefile containing macros for compiling, cleaning, checking, and submitting the source files for PA3. If you would like to compile DictionaryTest, use command:
+	%make test
+to compile an executable jarfile DictionaryTest. To clean the jarfile and associated classes, use command:
+	%make cleantest
+
+2. Dictionary.java: Implementation file for Dictionary ADT
+
+3. DictionaryTest.java: Contains isolation tests for various parts of Dictionary ADT
+
+4. DuplicateKeyException.java: defines exception class Duplicate Key to be thrown by Dictionary ADT 
+
+5. KeyNotFoundException.java: defines exception class Key Not Found to be thrown by Dictionary ADT
+
+6. DictionaryInterface.java: Interface file (unchanged)
+
+7. DictionaryClient.java: Client file (unchanged)
+
+Please note: Ignore the file Makefile1 that was originally included in first submission. This was used until a Makefile was modified for test compiling. 

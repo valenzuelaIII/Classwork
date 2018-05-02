@@ -1,0 +1,22 @@
+README
+Antonio Valenzuela
+anlvalen@ucsc.edu
+CS-12B
+August 9, 2017
+PA4
+
+Files for Submission:
+
+1. Simulation.java - contains the main() and acts as the client to Job ADT and Queue ADT. 
+    Program takes one command line argument and writes two output files.
+2. QueueInterface.java - Provided file. unaltered
+3. QueueEmptyException.java - Handles Queue Empty Exceptions when certain 
+4. Queue.Java - Implements Queue ADT using singly linked lists
+5. QueueTest.java - Tests functions in Q
+6. Job.java - Provided file. unaltered
+7. Makefile - Makefile with macros(including testing)
+    to create an executable jar file for QueueTest:
+        % make test
+    to clean the testing files
+        % make cleantest 
+8. README
