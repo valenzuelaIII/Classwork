@@ -1,0 +1,14 @@
+Antonio Valenzuela
+anlvalen@ucsc.edu
+CS-12B
+July 29, 2017
+Lab 4
+
+Files for Submission:
+
+README
+
+Makefile - a Makefile containing macros for compiling, cleaning, checking, and 
+submitting the source files FileReverse.C
+
+charType.c - a C reads lines from specified input file and prints out the character breakdowns of each individual line into a specified output file. 

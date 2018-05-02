@@ -1,0 +1,11 @@
+Lab 1 - README
+Antonio Valenzuela
+anlvalen@ucsc.edu
+1420837
+
+4 files included in submission:
+
+1. AntonioValenzuela-lab1.pdf: completed prelab and lab questions in PDF format
+2. AntonioValenzuela-script.sh: shell script for question 10. Prints all even  
+3. AntonioValenzuela-topo.py: custom topography file to create a network of 4 hosts connected to a switch
+4. README

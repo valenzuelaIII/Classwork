@@ -1,0 +1,14 @@
+Antonio Valenzuela
+anlvalen@ucsc.edu
+CS-12B
+July 19, 2017
+Lab 3
+
+Files for Submission:
+
+README
+
+Makefile - a Makefile containing macros for compiling, cleaning, checking, and 
+submitting the source files FileReverse.C
+
+FileReverse.c - a C file that performs the same functions as FileReverse.java in lab 2.

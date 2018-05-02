@@ -1,0 +1,14 @@
+Antonio Valenzuela
+anlvalen@ucsc.edu
+CS-12B
+July 12, 2017
+Lab2
+
+Files for Submission:
+
+README
+
+Makefile - a Makefile containing macros for compiling, cleaning, checking, and 
+submitting the source files for Lab 2
+
+FileReverse.java - reads each line from a specified input file, parses tokens, then prints each token backwards to the output file on a line by itself

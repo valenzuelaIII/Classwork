@@ -1,0 +1,17 @@
+Antonio Valenzuela
+anlvalen@ucsc.edu
+CS-12M Thursday 2pm-4pm
+July 4, 2017
+Lab 1
+
+Files for Submission:
+
+README
+
+Makefile - a Makefile containing macros for compiling, running, cleaning, and 
+submitting the source files HelloUser.java and HelloUser2.java
+
+HelloUser.java - the provided lab example
+
+HelloUser2.java - prints out a user greeting and the user's current working
+directory to stdout

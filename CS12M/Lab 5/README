@@ -1,0 +1,18 @@
+Antonio Valenzuela
+anlvalen@ucsc.edu
+CS-12B
+Aug 6, 2017
+Lab5
+
+README
+For PA5, a singly linked with head reference was used to implements Dictionary ADT.
+
+1. Makefile: a Makefile containing macros for compiling, cleaning, checking, and submitting the source files for Lab5.
+
+2. Dictionary.c: Implementation file for Dictionary ADT
+
+3. DictionaryTest.c: Contains isolation tests for various parts of Dictionary ADT
+
+6. Dictionary.h: Interface file (unchanged)
+
+7. DictionaryClient.c: Client file (unchanged)
